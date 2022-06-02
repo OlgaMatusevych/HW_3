@@ -1,0 +1,13 @@
+Title
+Severity/Priority
+Description
+Environment
+Steps to reproduce
+Expected result
+Actual result
+Attachments (screenshots, videos, text)
+Unique report number (ID)
+Author
+Assigned to
+Incident type
+Creation date
